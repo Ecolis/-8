@@ -1,7 +1,7 @@
 ### 1. Установка 
 1. Клонируйте репозиторий на свой локальный компьютер:
    
-   ```git clone  https://github.com/nika-milka/pr8.git```
+   ```git clone  https://github.com/Ecolis/-8.git```
 
 2. Перейдите в директорию проекта:
 
